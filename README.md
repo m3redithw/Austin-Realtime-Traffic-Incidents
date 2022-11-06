@@ -54,4 +54,7 @@ Keep in mind that this dataset is updated every 5 minutes. So the acquisition re
 
 ***
 
-## Data Exploration
+## Dashboard Overview
+
+![Traffic_Reports](https://user-images.githubusercontent.com/105242871/200153613-6aa73e55-9061-4263-81c1-60bcd3e5a58f.png)
+
